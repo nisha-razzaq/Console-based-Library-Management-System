@@ -1,0 +1,10 @@
+1,The Great Gatsby,F.Scott Fitzgerald,General,Available,0,0
+2,1984,George Orwell,General,Available,0,0
+3,To kill a Mockingbird,Harper Lee,General,Available,0,0
+4,Pride and Prejudice,Jane Austen,General,Available,0,0
+5,The Catcher in the Rye,J.D.Salinger,General,Available,0,0
+6,Moby-dick,Herman Melville,General,Available,0,0
+7,The Hobbit,J.R.R.Tolkien,General,Available,0,0
+8,Brave New World,Aldous Huxley,General,Available,0,0
+9,Crime and Punishment,Fyodor Dostoevsky,General,Available,0,0
+10,The Odyssey,Homer,General,Available,0,0
